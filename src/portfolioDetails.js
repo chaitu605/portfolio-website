@@ -4,7 +4,7 @@ const header = {
 };
 
 const about = {
-  name: "Chaitanya prabhu",
+  name: "Chaitanya Prabhu",
   role: "Front End Developer",
   description:
     "I'm a React Developer with hands-on experience in crafting web applications. Currently, I'm honing my skills in the MERN stack, aiming to become a skilled Frontend Heavy-Fullstack Developer.",
