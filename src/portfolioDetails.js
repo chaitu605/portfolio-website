@@ -23,7 +23,7 @@ const projects = [
       "MediaTube is a Video streaming site, Where users can SignUp/SignIn and watch latest trailers of Movies/TvShows",
     stack: ["ReactJs", "Redux", "MUIv5", "NodeJs", "Express", "MongoDB"],
     sourceCode: "https://github.com/chaitu605/mediatube-viteReact",
-    livePreview: "mediatube-vite-react.onrender.com",
+    livePreview: "https://mediatube-vite-react.onrender.com",
   },
   {
     name: "React-Sidebar",
