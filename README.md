@@ -1,8 +1,12 @@
-# React + Vite
+# Simple Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This React-based project, powered by Vite
 
-Currently, two official plugins are available:
+# Deployed on Render
+- https://vite-react-portfolio.onrender.com/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 💻 Technologies and Libraries Used 🛠🚀
+- **React**: A powerful and declarative JavaScript library for building user interfaces.
+- **Vite**: A blazing-fast development server and bundler for modern web development.
+- **Redux**: State management for app's theme.
+- **Material-UI v5**: A React UI framework for creating stylish and responsive user interfaces.
