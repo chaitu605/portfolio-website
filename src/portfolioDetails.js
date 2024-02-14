@@ -9,7 +9,7 @@ const about = {
   description:
     "I'm a React Developer with hands-on experience in crafting web applications. Currently, I'm honing my skills in the MERN stack, aiming to become a skilled Frontend Heavy-Fullstack Developer.",
   resume:
-    "https://drive.google.com/file/d/1q0MT7HFsHUkYhZi4PxQ9XfFbCd1MBEwb/view?usp=drive_link",
+    "https://drive.google.com/file/d/1ILHk49Q5j2uOAjFwiUnGfkoinbLe-af5/view?usp=drive_link",
   social: {
     linkedin: "https://www.linkedin.com/in/chaitanya-prabhu-b712339a/",
     github: "https://github.com/chaitu605",
